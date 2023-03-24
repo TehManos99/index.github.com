@@ -1,0 +1,66 @@
+body{ 
+margin: 0;
+}
+a:link { text-decoration: none;
+font-size: 30px;
+font-famliy: Arial;
+text-align: center;
+color:white;
+}
+a:visited {
+text-decoration: none;
+}
+
+p{
+font-size: 20px;
+font-famliy: Arial;
+text-align: center;
+}
+
+form {
+font-size: 20px;
+font-famliy: Arial;
+text-align: center;
+}
+
+table {
+border: none;
+font-size: 30px;
+font-famliy: Arial;
+text-align: center;
+vertical-align: middle;
+align: center;
+}
+
+.titulo {
+font-size: 50px;
+font-famliy: Arial;
+text-align: center;
+background-color:black;
+color:white;
+height:70px;
+}
+.edad{
+font-size: 30px;
+font-famliy: Arial;
+text-align: center;
+}
+
+.nombre{
+font-size: 30px;
+font-famliy: Arial;
+text-align: center;
+}
+
+td{
+height:50px;
+vertical-align: middle;
+}
+
+.abajo{
+    position:absolute;
+    bottom:5px;
+    right:850px;
+}
+
+
